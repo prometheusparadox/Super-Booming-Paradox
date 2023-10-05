@@ -3,7 +3,7 @@
   <p align="center">
   <h2 align="center"></h2>
 
-  Super-Bombing Paradox
+  Super-Bombing-Paradox
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
@@ -25,6 +25,7 @@
 - Don't put spaces in between phone number (Ex- 99999 99999)
 - Make sure you are using the latest version of Super-Bombing
 - Make sure you are using Python3.
+
 
 
 <br>
@@ -71,10 +72,10 @@
 * `pkg install git`
 * `git clone
 * `ls`
-* `cd Super-Bombing`
+* `cd Super-Bombing-paradox`
 * `pip2 install -r requirements.txt`
-* `chmod +x Super-Bombing.sh`
-* `./Super-Bombing.sh Or bash Super-Bombing.sh`
+* `chmod +x Super-Bombing-paradox.sh`
+* `./Super-Bombing-paradox.sh Or bash Super-Bombing-paradox.sh`
 
 <br>
 
@@ -115,8 +116,7 @@
 
 <br>
 
-<h3 align="left">[Screenshot] :</h3>
-<p align="left">
+
 
 <br>
 <p align="center">
@@ -139,7 +139,7 @@
 
 
 <p align="center"><a href="https://github.com/prometheusparadox">
-  <h2 align="center">LOVE YOU 5000000</h2>
+  <h2 align="center">LOVE YOU GUYS</h2>
 
 
 <br>
@@ -158,7 +158,7 @@
 
 <br><br>
 
-# THANKS FOR USING! LOVE YOU 5000000000 !!  
+# THANKS FOR USING! LOVE YOU FROM PROMETHEUS PARADOX !!  
 
 <br>
 
